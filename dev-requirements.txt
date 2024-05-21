@@ -8,7 +8,7 @@ ddtrace==2.3.0
 docutils
 flake8
 flaky
-freezegun>=1.4.0,<1.5
+freezegun>=1.4.0,<1.6
 hypothesis
 ipdb
 isort>=5.12,<6
