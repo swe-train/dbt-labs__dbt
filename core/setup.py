@@ -57,7 +57,7 @@ setup(
         # with major versions in each new minor version of dbt-core.
         "click>=8.0.2,<9.0",
         "networkx>=2.3,<4.0",
-        "protobuf>=4.0.0,<5",
+        "protobuf>=5.27.2,<6",
         "requests<3.0.0",  # should match dbt-common
         # ----
         # These packages are major-version-0. Keep upper bounds on upcoming minor versions (which could have breaking changes)
